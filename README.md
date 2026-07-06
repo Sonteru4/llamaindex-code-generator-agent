@@ -1,4 +1,4 @@
-# AI Agent Code Generator
+# RAG Document Code Generation Agent
 
 Interactive CLI agent that reads API documentation and generates Python code using LlamaIndex, Ollama, and local embeddings.
 
